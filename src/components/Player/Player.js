@@ -2,7 +2,7 @@ import React from 'react';
 import './Player.css';
 
 const Player = (props) => {
-    // console.log(props);
+    console.log(props);
     const { image, first_name, last_name, salary } = props.player;
     const handleAddPlayer = props.handleAddPlayer;
     return (

@@ -3,55 +3,55 @@ var players =
     "id": 1,
     "first_name": "Shakib Al",
     "last_name": "Hasan",
-    "salary": "51656.15",
+    "salary": 51656.15,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg"
   }, {
     "id": 2,
     "first_name": "Mahmudullah",
     "last_name": "Riyad",
-    "salary": "85489.46",
+    "salary": 85489.46,
     "image": "https://www.mykhel.com/thumb/247x100x233/cricket/players/5/3555.1506323472.jpg"
   }, {
     "id": 3,
     "first_name": "Mohammad",
     "last_name": "Saifuddin",
-    "salary": "39469.40",
+    "salary": 39469.40,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170907/mohammad-saifuddin.jpg"
   }, {
     "id": 4,
     "first_name": "Tamim",
     "last_name": "Iqbal",
-    "salary": "36080.96",
+    "salary": 36080.96,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
   }, {
     "id": 5,
     "first_name": "Soumya",
     "last_name": "Sarkar",
-    "salary": "27344.22",
+    "salary": 27344.22,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg"
   }, {
     "id": 6,
     "first_name": "Sabbir",
     "last_name": "Pollok",
-    "salary": "72005.52",
+    "salary": 72005.52,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170903/sabbir-rahman.jpg"
   }, {
     "id": 7,
     "first_name": "Mosaddek",
     "last_name": "Hossain",
-    "salary": "66538.87",
+    "salary": 66538.87,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170909/mosaddek-hossain.jpg"
   }, {
     "id": 8,
     "first_name": "Mehidy",
     "last_name": "Hasan",
-    "salary": "24913.92",
+    "salary": 24913.92,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c148289/mehidy-hasan.jpg"
   }, {
     "id": 9,
     "first_name": "Mushfiqure",
     "last_name": "Rahim",
-    "salary": "97802.14",
+    "salary": 97802.14,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
   }, {
     "id": 10,
@@ -69,7 +69,7 @@ var players =
     "id": 12,
     "first_name": "Mashrafe",
     "last_name": "Mortaza",
-    "salary": "98856.83",
+    "salary": 98856.83,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg"
   }, {
     "id": 13,
