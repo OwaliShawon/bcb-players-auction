@@ -8,14 +8,10 @@ function App() {
   return (
     <div>
       <div ClassName="team">
-        <div className="all-players">
-          <Team> </Team>
-        </div>
-        <div className="playing-eleven">
-
+        <div>
+          <Team></Team>
         </div>
       </div>
-
     </div>
   );
 }

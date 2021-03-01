@@ -1,3 +1,9 @@
 .player{
-    margin: 100px;
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.player img{
+    height: 200px
 }
