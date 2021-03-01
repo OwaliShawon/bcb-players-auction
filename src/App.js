@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Player from './components/Player/Player';
 import Team from './components/Team/Team';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 

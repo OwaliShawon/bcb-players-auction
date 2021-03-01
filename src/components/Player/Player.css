@@ -4,6 +4,8 @@
     padding: 15px;
     text-align: center;
     box-shadow: 5px 5px gray, 10px 10px red, 15px 15px green;
+    height: 400px;
+    width: 300px;
 }
 .player img{
     height: 200px

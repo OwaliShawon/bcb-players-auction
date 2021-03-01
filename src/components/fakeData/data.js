@@ -1,5 +1,5 @@
-var players = 
-[{
+var players =
+  [{
     "id": 1,
     "first_name": "Shakib Al",
     "last_name": "Hasan",
@@ -55,15 +55,15 @@ var players =
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
   }, {
     "id": 10,
-    "first_name": "Chelsea",
-    "last_name": "Nielson",
-    "salary": "47799.16",
-    "image": "http://dummyimage.com/200x124.jpg/dddddd/000000"
+    "first_name": "Mohammad",
+    "last_name": "Mithun",
+    "salary": 47799.16,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170918/mohammad-mithun.jpg"
   }, {
     "id": 11,
     "first_name": "Liton",
     "last_name": "Das",
-    "salary": "54821.72",
+    "salary": 54821.72,
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg"
   }, {
     "id": 12,
@@ -73,52 +73,28 @@ var players =
     "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg"
   }, {
     "id": 13,
-    "first_name": "Waldo",
-    "last_name": "Capnerhurst",
-    "salary": "93908.79",
-    "image": "http://dummyimage.com/145x231.jpg/dddddd/000000"
+    "first_name": "Rubel",
+    "last_name": "Hossain",
+    "salary": 93908.79,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg"
   }, {
     "id": 14,
-    "first_name": "Hanny",
-    "last_name": "Skirvin",
-    "salary": "54060.69",
-    "image": "http://dummyimage.com/161x161.bmp/dddddd/000000"
+    "first_name": "Mustafizur",
+    "last_name": "Rahman",
+    "salary": 54060.69,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg"
   }, {
     "id": 15,
-    "first_name": "Austina",
-    "last_name": "Commuzzo",
-    "salary": "18067.41",
-    "image": "http://dummyimage.com/205x191.jpg/dddddd/000000"
+    "first_name": "Abu",
+    "last_name": "Jayed",
+    "salary": 18067.41,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170927/abu-jayed.jpg"
   }, {
     "id": 16,
-    "first_name": "Fay",
-    "last_name": "Burthom",
-    "salary": "94937.34",
-    "image": "http://dummyimage.com/165x138.jpg/dddddd/000000"
-  }, {
-    "id": 17,
-    "first_name": "Aline",
-    "last_name": "Scardifeild",
-    "salary": "83332.98",
-    "image": "http://dummyimage.com/236x184.jpg/dddddd/000000"
-  }, {
-    "id": 18,
-    "first_name": "Mallory",
-    "last_name": "Hancox",
-    "salary": "84328.79",
-    "image": "http://dummyimage.com/242x205.jpg/dddddd/000000"
-  }, {
-    "id": 19,
-    "first_name": "Stevy",
-    "last_name": "Warde",
-    "salary": "51007.04",
-    "image": "http://dummyimage.com/135x237.bmp/dddddd/000000"
-  }, {
-    "id": 20,
-    "first_name": "Archibald",
-    "last_name": "Sendley",
-    "salary": "5947.31",
-    "image": "http://dummyimage.com/197x175.bmp/dddddd/000000"
+    "first_name": "Mohammad",
+    "last_name": "Ashraful",
+    "salary": 94937.34,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155769/mohammad-ashraful.jpg"
   }]
-  
-  export default players;
+
+export default players;

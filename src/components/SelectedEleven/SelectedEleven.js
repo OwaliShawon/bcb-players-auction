@@ -5,8 +5,14 @@ const SelectedEleven = (props) => {
 
     return (
         <div>
-            <h2>Name: {first_name} {last_name}</h2>
-            <h2>Salary: ${salary}</h2>
+            <table class="table table-dark ">
+                <tbody>
+                    <tr>
+                        <td>{first_name} {last_name}</td>
+                        <td>$ {salary}</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
     );
 };

@@ -20,23 +20,22 @@ const Team = () => {
 
     return (
         <div className="all-players">
-            <div className="selected-players">
-                {
-                    card.map(card => <SelectedEleven card={card}></SelectedEleven>)
-                }
-                {/* <SelectedEleven card={card}></SelectedEleven> */}
-            </div>
-
-            <div>
-                <Cart card={card}></Cart>
-            </div>
-
             <div className="players">
                 {
                     players.map(player => <Player
                         player={player}
                         handleAddPlayer={handleAddPlayer}
                     ></Player>)
+                }
+            </div>
+
+            <div>
+                <Cart card={card}></Cart>
+            </div>
+
+            <div className="selected-players">
+                {
+                    card.map(card => <SelectedEleven card={card}></SelectedEleven>)
                 }
             </div>
         </div>
