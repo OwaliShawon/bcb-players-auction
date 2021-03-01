@@ -6,7 +6,7 @@ const SelectedEleven = (props) => {
     return (
         <div>
             <h2>Name: {first_name} {last_name}</h2>
-            <h2>Salary: {salary}</h2>
+            <h2>Salary: ${salary}</h2>
         </div>
     );
 };

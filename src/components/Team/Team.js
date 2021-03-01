@@ -32,9 +32,6 @@ const Team = () => {
             </div>
 
             <div className="players">
-                {/* <h1>This is All Players for Team Creation</h1> */}
-                <h2>Total Players: {players.length}</h2>
-                {/* <h2>Selected Players: {card.length}</h2> */}
                 {
                     players.map(player => <Player
                         player={player}
