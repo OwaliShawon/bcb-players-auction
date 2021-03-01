@@ -12,11 +12,11 @@ const Player = (props) => {
         <div className="player">
             <img src={image} alt="" />
             <h3>{first_name} {last_name}</h3>
-            <h5>Salary Per Match: ${Math.round(salary)}</h5>
+            <h5>Auction Price ${Math.round(salary)}</h5>
             <button
                 className={'btn-sm btn-primary'}
                 onClick={() => handleAddPlayer(props.player)}>
-                <FontAwesomeIcon icon={faMoneyBillAlt} /> BidPayment
+                <FontAwesomeIcon icon={faMoneyBillAlt} /> Bid Payment
                 </button>
         </div>
     );
